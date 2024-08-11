@@ -1,6 +1,6 @@
 ## Hi I'm Abel Oliveira👋
 
-[![social](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/abel-r-oliveira-dev/)
+
 <h1 align="center">Hi , I'm Abel Oliveira</h1>
 <h3 align="center">I'm a junior programmer</h3>
 
