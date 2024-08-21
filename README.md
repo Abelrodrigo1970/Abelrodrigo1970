@@ -3,6 +3,7 @@
 
 
 <h3 align="center">I'm a junior programmer</h3>
+<h3 align="center">I'm looking to be happy by facing new challenges.r</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
